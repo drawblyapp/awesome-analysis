@@ -2,11 +2,9 @@
 
  <img width="1003" height="365" alt="header-dark" src="https://github.com/user-attachments/assets/3240155f-20e2-4d85-ab8e-4d37c6eae22b" />
 
-> Business, systems, and product analysis turn stakeholder needs into clear, verifiable requirements, designs, and product decisions.
+> Business, systems, and product analysis turn stakeholder needs into clear, verifiable requirements, designs, and product decisions. The craft is the same in all three: elicit, model, specify, validate. The question is always what a solution should do and why, not how code, networks, or datasets behave.
 
 ✨ **Spotted a gap?** [Suggest an addition](https://github.com/sbarkalov/awesome-analysis/issues/new) or [start a discussion](https://github.com/sbarkalov/awesome-analysis/discussions)
-
-This list collects the best of the discipline — from AI-assisted and code-driven workflows to classic bodies of knowledge, modeling notations, product analytics, and templates.
 
 ## Contents
 
