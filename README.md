@@ -4,8 +4,6 @@
 
 > Business, systems, and product analysis turn stakeholder needs into clear, verifiable requirements, designs, and product decisions. The craft is the same in all three: elicit, model, specify, validate. The question is always what a solution should do and why, not how code, networks, or datasets behave.
 
-✨ **Spotted a gap?** [Suggest an addition](https://github.com/sbarkalov/awesome-analysis/issues/new) or [start a discussion](https://github.com/sbarkalov/awesome-analysis/discussions)
-
 ## Contents
 
 - [AI & Agentic Analysis](#ai--agentic-analysis)
@@ -306,7 +304,7 @@ Adjacent domains and specialties this list points to rather than duplicates — 
 
 ## Contributing
 
-Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first. Spotted a gap? [Suggest an addition](https://github.com/sbarkalov/awesome-analysis/issues/new) or [start a discussion](https://github.com/sbarkalov/awesome-analysis/discussions).
 
 ## Footnotes
 
