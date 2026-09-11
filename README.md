@@ -22,6 +22,7 @@
 - [Learning Resources](#learning-resources)
 - [Books](#books)
 - [Community](#community)
+- [Related Lists](#related-lists)
 
 ## AI & Agentic Analysis
 
