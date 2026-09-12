@@ -78,6 +78,7 @@ Notations and tools for process, data, and architecture models — text-first wh
 - [Sparx Enterprise Architect](https://sparxsystems.com/products/ea/) - Modeling platform for UML, BPMN, SysML, and ArchiMate.
 - [UML](https://www.uml.org) - OMG's Unified Modeling Language for software systems.
 - [Archi](https://www.archimatetool.com) - Open-source modeling tool for the ArchiMate language.
+- [Markmap](https://github.com/markmap/markmap) - Renders Markdown outlines as interactive mind maps.
 
 <p align="right">(<a href="#contents">↑ back to top ↑</a>)</p>
 
@@ -171,6 +172,7 @@ Gathering requirements through workshops, surveys, interviews, and shared visual
 - [Mentimeter](https://www.mentimeter.com) - Live polls, quizzes, and Q&A for interactive sessions.
 - [Otter.ai](https://otter.ai) - AI meeting transcription for capturing interviews and notes.
 - [XMind](https://xmind.net) - Cross-platform mind mapping and brainstorming.
+- [Freeplane](https://freeplane.org) - Open-source desktop mind mapping and knowledge structuring.
 
 <p align="right">(<a href="#contents">↑ back to top ↑</a>)</p>
 
