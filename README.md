@@ -17,6 +17,7 @@
 - [Elicitation & Collaboration](#elicitation--collaboration)
 - [Agile & Delivery](#agile--delivery)
 - [Requirements Management Tools](#requirements-management-tools)
+- [Regulatory Requirements](#regulatory-requirements)
 - [Frameworks & Bodies of Knowledge](#frameworks--bodies-of-knowledge)
 - [Domains](#domains)
 - [Templates](#templates)
@@ -192,6 +193,20 @@ Frameworks and comparisons for iterative delivery of analysis and product work.
 - [Jama Connect](https://www.jamasoftware.com) - Requirements, risk, and test management for complex products.
 - [IBM DOORS Next](https://www.ibm.com/products/requirements-management-doors-next) - Enterprise requirements management for regulated industries.
 - [ReqView](https://www.reqview.com) - Lightweight requirements management with full traceability.
+
+<p align="right">(<a href="#contents">↑ back to top ↑</a>)</p>
+
+## Regulatory Requirements
+
+Turning statutory obligations into requirements a solution has to satisfy.
+
+- [GDPR](https://commission.europa.eu/law/law-topic/data-protection_en) - European Commission guidance on the EU data protection rules.
+- [EU AI Act](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) - The EU AI regulation by risk tier, from the Commission.
+- [DORA](https://eur-lex.europa.eu/eli/reg/2022/2554/oj) - EU rules on operational resilience for the financial sector.
+- [CCPA](https://oag.ca.gov/privacy/ccpa) - California's consumer privacy law, with FAQs from the state AG.
+- [WCAG 2.2](https://www.w3.org/TR/WCAG22/) - The accessibility standard most accessibility laws point to.
+- [Web Accessibility Laws and Policies](https://www.w3.org/WAI/policies/) - Which accessibility law applies, country by country.
+- [PCI DSS](https://www.pcisecuritystandards.org/standards/pci-dss/) - Security requirements for handling payment card data.
 
 <p align="right">(<a href="#contents">↑ back to top ↑</a>)</p>
 
