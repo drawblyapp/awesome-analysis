@@ -11,6 +11,7 @@
 - [Modeling & Diagrams as Code](#modeling--diagrams-as-code)
 - [Integration Analysis](#integration-analysis)
 - [Data Basics](#data-basics)
+- [Business Analysis](#business-analysis)
 - [Product Analysis](#product-analysis)
 - [Elicitation & Collaboration](#elicitation--collaboration)
 - [Agile & Delivery](#agile--delivery)
@@ -112,6 +113,20 @@ Foundational data and database skills for analysts. For deeper data analysis, se
 
 - [SQLBolt](https://sqlbolt.com) - Interactive lessons for learning SQL from scratch.
 - [PostgreSQL](https://www.postgresql.org) - Popular open-source relational database with thorough documentation.
+
+<p align="right">(<a href="#contents">↑ back to top ↑</a>)</p>
+
+## Business Analysis
+
+Framing the business problem and the case for change before any solution exists.
+
+- [Business Architecture Guild](https://www.businessarchitectureguild.org) - Holds BIZBOK, the body of knowledge for business architecture.
+- [APQC Process Frameworks](https://www.apqc.org/process-frameworks) - Cross-industry reference models for classifying business processes.
+- [Porter's Frameworks](https://www.isc.hbs.edu/resources/Pages/frameworks.aspx) - Five forces, value chain, and clusters from Porter's institute.
+- [The Green Book](https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government) - How to build and appraise a business case, from the UK Treasury.
+- [Theory of Constraints](https://www.tocinstitute.org/theory-of-constraints.html) - Goldratt's method for finding and managing the limiting constraint.
+- [5 Whys](https://www.lean.org/lexicon-terms/5-whys/) - Root cause technique from the Lean Enterprise Institute lexicon.
+- [ASQ Quality Topics](https://asq.org/quality-resources/learn-about-quality) - A to Z of quality and analysis techniques: Ishikawa, SIPOC, DMAIC.
 
 <p align="right">(<a href="#contents">↑ back to top ↑</a>)</p>
 
