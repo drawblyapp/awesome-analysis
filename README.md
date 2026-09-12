@@ -13,6 +13,7 @@
 - [Data Basics](#data-basics)
 - [Business Analysis](#business-analysis)
 - [Product Analysis](#product-analysis)
+- [Systems Thinking](#systems-thinking)
 - [Elicitation & Collaboration](#elicitation--collaboration)
 - [Agile & Delivery](#agile--delivery)
 - [Requirements Management Tools](#requirements-management-tools)
@@ -143,6 +144,18 @@ Understanding product usage, opportunities, and outcomes to inform what to build
 - [Opportunity Solution Tree](https://www.producttalk.org/opportunity-solution-tree/) - Teresa Torres's model for continuous product discovery.
 - [Jobs to be Done](https://jobs-to-be-done.com/) - Framework for the progress customers are trying to make.
 - [Outcome-Driven Innovation](https://strategyn.com/jobs-to-be-done/) - Strategyn's JTBD-based innovation method by Tony Ulwick.
+
+<p align="right">(<a href="#contents">↑ back to top ↑</a>)</p>
+
+## Systems Thinking
+
+Reasoning about feedback loops, delays, and leverage points before specifying a solution.
+
+- [Leverage Points](https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/) - Donella Meadows on where to intervene in a system.
+- [The Systems Thinker](https://thesystemsthinker.com) - Practitioner articles on archetypes, feedback, and leverage points.
+- [Insight Maker](https://insightmaker.com) - Free browser tool for system dynamics and agent-based models.
+- [NetLogo](https://www.netlogo.org) - Open-source environment for agent-based modelling and simulation.
+- [Mental Modeler](https://www.mentalmodeler.com) - Fuzzy cognitive mapping for modelling a system with stakeholders.
 
 <p align="right">(<a href="#contents">↑ back to top ↑</a>)</p>
 
