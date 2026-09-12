@@ -1,6 +1,6 @@
 # Awesome Analysis [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
- <img width="1003" height="365" alt="header-dark" src="https://github.com/user-attachments/assets/3240155f-20e2-4d85-ab8e-4d37c6eae22b" />
+<a href="https://github.com/sbarkalov/awesome-analysis"><img width="1003" height="365" alt="header-dark" src="https://github.com/user-attachments/assets/3240155f-20e2-4d85-ab8e-4d37c6eae22b" /></a>
 
 > Business, systems, and product analysis turn stakeholder needs into clear, verifiable requirements, designs, and product decisions. The craft is the same in all three: elicit, model, specify, validate. The question is always what a solution should do and why, not how code, networks, or datasets behave.
 
