@@ -10,7 +10,7 @@
 - [Requirements as Code](#requirements-as-code)
 - [Modeling & Diagrams as Code](#modeling--diagrams-as-code)
 - [Integration Analysis](#integration-analysis)
-- [Data Basics](#data-basics)
+- [Data & Domain Modeling](#data--domain-modeling)
 - [Business Analysis](#business-analysis)
 - [Product Analysis](#product-analysis)
 - [Systems Thinking](#systems-thinking)
@@ -73,7 +73,6 @@ Notations and tools for process, data, and architecture models — text-first wh
 - [Camunda Modeler](https://camunda.com/platform/modeler/) - Desktop modeler for BPMN and DMN.
 - [draw.io](https://www.drawio.com) - Free, general-purpose diagramming tool.
 - [Excalidraw](https://excalidraw.com) - Virtual whiteboard for quick, hand-drawn-style diagrams.
-- [dbdiagram.io](https://dbdiagram.io) - Entity-relationship diagrams generated from a simple DSL.
 - [Lucidchart](https://www.lucidchart.com) - Web-based diagramming for flowcharts, ERDs, and UML.
 - [Sparx Enterprise Architect](https://sparxsystems.com/products/ea/) - Modeling platform for UML, BPMN, SysML, and ArchiMate.
 - [UML](https://www.uml.org) - OMG's Unified Modeling Language for software systems.
@@ -110,12 +109,15 @@ Designing and analyzing interfaces, contracts, and data exchange between systems
 
 <p align="right">(<a href="#contents">↑ back to top ↑</a>)</p>
 
-## Data Basics
+## Data & Domain Modeling
 
-Foundational data and database skills for analysts. For deeper data analysis, see the [Related Lists](#related-lists) section.
+Agreeing on what the data means before agreeing on where it is stored. For data analysis itself, see the [Related Lists](#related-lists) section.
 
-- [SQLBolt](https://sqlbolt.com) - Interactive lessons for learning SQL from scratch.
-- [PostgreSQL](https://www.postgresql.org) - Popular open-source relational database with thorough documentation.
+- [dbdiagram.io](https://dbdiagram.io) - Entity-relationship diagrams generated from a simple DSL.
+- [DBML](https://dbml.dbdiagram.io) - Database Markup Language for defining and versioning schemas as text.
+- [SchemaSpy](https://schemaspy.org) - Generates diagrams and documentation from an existing database schema.
+- [Data Contract Specification](https://datacontract.com) - Open specification for agreeing on data structure and semantics.
+- [Open Data Contract Standard](https://bitol.io) - Linux Foundation standard for data contracts between teams.
 
 <p align="right">(<a href="#contents">↑ back to top ↑</a>)</p>
 
@@ -313,6 +315,7 @@ Industry-specific standards, reference models, and bodies of knowledge for domai
 - [Atlassian University](https://university.atlassian.com) - Official training for Jira, Confluence, and agile ways of working.
 - [System Design Primer](https://github.com/donnemartin/system-design-primer) - Open guide to system design concepts and trade-offs.
 - [Prompt Engineering Guide](https://www.promptingguide.ai) - Techniques like few-shot and chain-of-thought for reliable LLM use.
+- [SQLBolt](https://sqlbolt.com) - Interactive lessons for learning SQL from scratch.
 
 <p align="right">(<a href="#contents">↑ back to top ↑</a>)</p>
 
