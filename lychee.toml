@@ -16,10 +16,3 @@ accept_timeouts = true
 
 # Browser-like User-Agent to reduce bot blocking.
 user_agent = "Mozilla/5.0 (compatible; lychee link checker)"
-
-# Hosts that reliably time out in CI despite being valid, plus features gated
-# behind repo settings. Remove the Discussions entry once Discussions is enabled.
-exclude = [
-  "iso20022.org",
-  "swift.com",
-]
