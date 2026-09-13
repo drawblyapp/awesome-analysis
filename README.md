@@ -15,7 +15,7 @@
 - [Product Analysis](#product-analysis)
 - [Systems Thinking](#systems-thinking)
 - [Elicitation & Collaboration](#elicitation--collaboration)
-- [Agile & Delivery](#agile--delivery)
+- [Agile Requirements](#agile-requirements)
 - [Requirements Management Tools](#requirements-management-tools)
 - [Regulatory Requirements](#regulatory-requirements)
 - [Frameworks & Bodies of Knowledge](#frameworks--bodies-of-knowledge)
@@ -178,12 +178,15 @@ Gathering requirements through workshops, surveys, interviews, and shared visual
 
 <p align="right">(<a href="#contents">↑ back to top ↑</a>)</p>
 
-## Agile & Delivery
+## Agile Requirements
 
-Frameworks and comparisons for iterative delivery of analysis and product work.
+Slicing, prioritising, and agreeing on scope when requirements arrive continuously.
 
 - [The Scrum Guide](https://scrumguides.org/) - The definitive rules of the Scrum framework by its creators.
-- [Kanban vs Scrum](https://www.atlassian.com/agile/kanban/kanban-vs-scrum) - Atlassian's practical comparison of the two agile approaches.
+- [Kanban Guides](https://kanbanguides.org) - The definition of the Kanban method for flow-based delivery.
+- [Splitting User Stories](https://www.humanizingwork.com/the-humanizing-work-guide-to-splitting-user-stories/) - Patterns for slicing a story small without losing value.
+- [MoSCoW Prioritisation](https://www.agilebusiness.org/resource/what-is-moscow-prioritization/) - DSDM's Must, Should, Could, Won't method for scope decisions.
+- [Definition of Done](https://www.scrum.org/resources/what-definition-done) - Shared agreement on what makes an increment complete.
 
 <p align="right">(<a href="#contents">↑ back to top ↑</a>)</p>
 
