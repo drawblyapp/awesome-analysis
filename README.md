@@ -73,6 +73,7 @@ Notations and tools for process, data, and architecture models — text-first wh
 - [Camunda Modeler](https://camunda.com/platform/modeler/) - Desktop modeler for BPMN and DMN.
 - [draw.io](https://www.drawio.com) - Free, general-purpose diagramming tool.
 - [Excalidraw](https://excalidraw.com) - Virtual whiteboard for quick, hand-drawn-style diagrams.
+- [Drawbly](https://drawbly.com) - Browser canvas for freehand system sketches with editable labels and credited PNG exports, without signup.
 - [Lucidchart](https://www.lucidchart.com) - Web-based diagramming for flowcharts, ERDs, and UML.
 - [Sparx Enterprise Architect](https://sparxsystems.com/products/ea/) - Modeling platform for UML, BPMN, SysML, and ArchiMate.
 - [UML](https://www.uml.org) - OMG's Unified Modeling Language for software systems.
